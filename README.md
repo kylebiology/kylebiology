@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kylebiology
+- 👀 I’m interested in R and Ecology
+- 🌱 I’m currently learning more advanced R
+- 💞️ I’m looking to collaborate on any population modelling project using R
+- 📫 How to reach me EMAIL
+- ⚡ Fun fact: Im an undergraduate biology student
+- Experience/Skills: Making models mathematically by hand and knowledge in ecological processes.
